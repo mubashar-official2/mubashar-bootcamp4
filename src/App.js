@@ -45,7 +45,7 @@ function App() {
                                     Click to Night Mood 
                                       </button>
                                   
-                         <h1> Thank You Much  Recpected Sir Zia And His Team         
+                         <h1> Thank You Much  Recpected Sir Zia And His Team    </h1>     
             </div>
   );
 }
